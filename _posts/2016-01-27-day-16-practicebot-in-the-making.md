@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Day 16 of the 2016 FRC Build Season.
-datePublished: '2016-01-29T01:03:29.500Z'
+datePublished: '2016-01-29T01:03:29.555Z'
 dateModified: '2016-01-29T01:03:26.348Z'
 title: 'Day 16: Practicebot in the Making'
 author: []
