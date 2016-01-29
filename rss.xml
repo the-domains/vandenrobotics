@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Vanden Robotics]]></title>
         <description><![CDATA[Vanden Robotics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vandenrobotics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 01:12:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 01:12:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vandenrobotics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Day 16: Practicebot in the Making]]></title>
             <description><![CDATA[<article><h1>Day 16: Practicebot in the Making</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21fdec51c2d14a2b80b877649f1ea0bd17e4973e.jpg"></article>]]></description>
-            <link>undefinedday-16-practicebot-in-the-making/index.html</link>
+            <link>https://thegrid.ai/vandenrobotics/day-16-practicebot-in-the-making/index.html</link>
             <guid isPermaLink="false">df9ae8f7-dcf1-4ddd-8477-8b0097880c9f</guid>
             <pubDate>Fri, 29 Jan 2016 01:11:00 GMT</pubDate>
         </item>
